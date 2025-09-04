@@ -38,21 +38,21 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           //     { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
           //   ],
           // },
-          {
-            text: '学习笔记',
-            items: [
+          // {
+            // text: '学习笔记',
+            // items: [
               // { text: '《JavaScript教程》', link: '/note/javascript/' }
-            ],
-          },
+            // ],
+          // },
         ],
       },
       {
         text: '工程实践',
         link: '/ui/',
-        items: [
+        // items: [
           // { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
           // { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
-        ],
+        // ],
       },
       {
         text: '所见所思',
