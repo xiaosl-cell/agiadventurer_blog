@@ -1,8 +1,8 @@
 <template>
   <aside class="blogger-wrapper card-box">
-    <div class="avatar">
+    <!-- <div class="avatar">
       <img :src="blogger.avatar" alt="头像" title="我好看吗" />
-    </div>
+    </div> -->
     <div class="icons" v-if="social && social.icons && social.icons.length">
       <a
         v-for="(item, index) in social.icons"
