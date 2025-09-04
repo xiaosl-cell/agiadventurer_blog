@@ -131,7 +131,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 文章默认的作者信息，(可在md文件中单独配置此信息) string | {name: string, link?: string}
     author: {
-      name: 'xiao-cell', // 必需
+      name: 'xiaosl-cell', // 必需
       link: 'https://github.com/xiaosl-cell', // 可选的
     },
 
@@ -154,7 +154,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/xiao-cell',
+          link: 'https://github.com/xiaosl-cell',
         },
         {
           iconClass: 'icon-erji',
