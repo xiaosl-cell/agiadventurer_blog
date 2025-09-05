@@ -137,7 +137,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+      avatar: 'https://qiniu.agiadventurer.com/avatar.png',
       name: "AGI围城",
       slogan: '是的，这个世界还是很有趣的。',
     },
